@@ -21,5 +21,6 @@ I'm an aspiring Web Developer focused on building clean, responsive, and user-fr
 ### 🤝 Connect with Me
 
 * 📧 Email: [enganwer583@gmail.com](mailto:enganwer583@gmail.com)
-* 💼 LinkedIn: [Your LinkedIn Profile Link Here]
+* 💼 LinkedIn: [Anwer Dev](https://www.linkedin.com/in/anwer-dev-863a1944a)
+
 * 🐦 Twitter/X: [Your Twitter Profile Link Here]
